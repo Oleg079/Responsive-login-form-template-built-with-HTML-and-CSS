@@ -14,8 +14,7 @@ body {
   background: #75d11f;
   text-align: center;
   border: 1px solid #B0C4DE;
-  border-bottom: none;
-  border-radius: 2rem 2rem 0rem 0rem;
+  border-bottom: none
   padding: 2.4rem;
 }
 form, .content {
